@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<SetList>
+    <Song>
+        <Title>King Kunta</Title>
+        <Artist>Kendrick Lamar</Artist>
+        <Genre>Rap</Genre>
+        <Year>2015</Year>
+    </Song> 
+    <Song>
+        <Title>Wannabe</Title>
+        <Artist>Spice Girls</Artist>
+        <Genre>Pop</Genre>
+        <Year>1996</Year>
+    </Song>
+    <Song>
+        <Title>The Middle</Title>
+        <Artist>Jimmy Eat World</Artist>
+        <Genre>Rock</Genre>
+        <Year>2001</Year>
+    </Song>
+    <Song>
+        <Title>It's Tricky</Title>
+        <Artist>Run-D.M.C.</Artist>
+        <Genre>Rap</Genre>
+        <Year>1998</Year>
+    </Song>
+    <Song>
+        <Title>Hold Me Down</Title>
+        <Artist>Halsey</Artist>
+        <Genre>Pop</Genre>
+        <Year>2015</Year>
+    </Song>
+    <Song>
+        <Title>I Don't Want to Be</Title>
+        <Artist>Gavin DeGraw</Artist>
+        <Genre>Rock</Genre>
+        <Year>2004</Year>
+    </Song>
+    <Song>
+        <Title>Collide</Title>
+        <Artist>Howie Day</Artist>
+        <Genre>Alternative</Genre>
+        <Year>2003</Year>
+    </Song>
+    <Song>
+        <Title>Jesus of Suburbia</Title>
+        <Artist>Green Day</Artist>
+        <Genre>Rock</Genre>
+        <Year>2004</Year>
+    </Song>
+    <Song>
+        <Title>Heart</Title>
+        <Artist>flor</Artist>
+        <Genre>Pop</Genre>
+        <Year>2015</Year>
+    </Song>
+    <Song>
+        <Title>Fourth of July</Title>
+        <Artist>Fall Out Boy</Artist>
+        <Genre>Rock</Genre>
+        <Year>2015</Year>
+    </Song>
+</SetList>
